@@ -1,0 +1,1 @@
+This example demonstrates a potential NullPointerException in Kotlin's map function when dealing with nullable lists. The code showcases how to safely handle null values using the elvis operator and the safe call operator.  The solution uses null checks to prevent the exception.  This is a common issue when working with collections and null values in Kotlin.
